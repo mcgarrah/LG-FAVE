@@ -1,0 +1,30 @@
+Tue Oct 17 21:01:43 2017
+
+Alignment statistics for file sv_SE_longtest.wav:
+
+version info from Git: 1.2.3 - hardcoded
+Uncommitted changes when run:
+None
+Total number of words:			37
+Uncertain transcriptions:		0	(0.0%)
+Unclear passages:			0	(0.0%)
+
+Number of breath groups aligned:	5
+Duration of sound file:			16.579 seconds
+Total time for alignment:		494.71 seconds
+Total time since beginning of program:	531.38 seconds
+
+->	average alignment duration:	98.942 seconds per breath group
+->	alignment rate:			32.051 times real time
+
+
+Alignment statistics:
+
+Chunk	CPU time	real time	d(CPU)	d(time)
+start	0.061	Tue Oct 17 20:52:51 2017	
+prelim	36.534	Tue Oct 17 20:53:28 2017	36.472	36.665
+1	36.541	Tue Oct 17 20:55:11 2017	0.007	102.718
+2	36.545	Tue Oct 17 20:56:49 2017	0.004	97.742
+3	36.55	Tue Oct 17 20:58:27 2017	0.005	98.236
+4	36.553	Tue Oct 17 21:00:02 2017	0.003	95.159
+5	36.557	Tue Oct 17 21:01:43 2017	0.004	100.857

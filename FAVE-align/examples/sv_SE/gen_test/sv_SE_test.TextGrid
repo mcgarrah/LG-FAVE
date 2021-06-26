@@ -1,0 +1,176 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.000000
+xmax = 2.373000
+tiers? <exists>
+size = 2
+item []:
+	item [1]:
+		class = "IntervalTier"
+		name = "Adam - phone"
+		xmin = 0.000000
+		xmax = 2.373000
+		intervals: size = 30
+			intervals [1]:
+				xmin = 0.000000
+				xmax = 0.013000
+				text = "sp"
+			intervals [2]:
+				xmin = 0.013000
+				xmax = 0.302000
+				text = "sp"
+			intervals [3]:
+				xmin = 0.302000
+				xmax = 0.383000
+				text = "S"
+			intervals [4]:
+				xmin = 0.383000
+				xmax = 0.532000
+				text = "IH1"
+			intervals [5]:
+				xmin = 0.532000
+				xmax = 0.563000
+				text = "RR"
+			intervals [6]:
+				xmin = 0.563000
+				xmax = 0.622000
+				text = "K"
+			intervals [7]:
+				xmin = 0.622000
+				xmax = 0.652000
+				text = "UH0"
+			intervals [8]:
+				xmin = 0.652000
+				xmax = 0.732000
+				text = "S"
+			intervals [9]:
+				xmin = 0.732000
+				xmax = 0.762000
+				text = "EH0"
+			intervals [10]:
+				xmin = 0.762000
+				xmax = 0.792000
+				text = "N"
+			intervals [11]:
+				xmin = 0.792000
+				xmax = 0.832000
+				text = "V"
+			intervals [12]:
+				xmin = 0.832000
+				xmax = 0.912000
+				text = "AA1"
+			intervals [13]:
+				xmin = 0.912000
+				xmax = 1.002000
+				text = "P"
+			intervals [14]:
+				xmin = 1.002000
+				xmax = 1.042000
+				text = "OAH0"
+			intervals [15]:
+				xmin = 1.042000
+				xmax = 1.103000
+				text = "V"
+			intervals [16]:
+				xmin = 1.103000
+				xmax = 1.333000
+				text = "AE1"
+			intervals [17]:
+				xmin = 1.333000
+				xmax = 1.402000
+				text = "G"
+			intervals [18]:
+				xmin = 1.402000
+				xmax = 1.462000
+				text = "D"
+			intervals [19]:
+				xmin = 1.462000
+				xmax = 1.542000
+				text = "EE3"
+			intervals [20]:
+				xmin = 1.542000
+				xmax = 1.573000
+				text = "R"
+			intervals [21]:
+				xmin = 1.573000
+				xmax = 1.623000
+				text = "AH4"
+			intervals [22]:
+				xmin = 1.623000
+				xmax = 1.772000
+				text = "S"
+			intervals [23]:
+				xmin = 1.772000
+				xmax = 1.853000
+				text = "P"
+			intervals [24]:
+				xmin = 1.853000
+				xmax = 1.883000
+				text = "L"
+			intervals [25]:
+				xmin = 1.883000
+				xmax = 1.962000
+				text = "AH0"
+			intervals [26]:
+				xmin = 1.962000
+				xmax = 2.022000
+				text = "K"
+			intervals [27]:
+				xmin = 2.022000
+				xmax = 2.213000
+				text = "AA1"
+			intervals [28]:
+				xmin = 2.213000
+				xmax = 2.343000
+				text = "T"
+			intervals [29]:
+				xmin = 2.343000
+				xmax = 2.363000
+				text = "sp"
+			intervals [30]:
+				xmin = 2.363000
+				xmax = 2.373000
+				text = "sp"
+	item [2]:
+		class = "IntervalTier"
+		name = "Adam - word"
+		xmin = 0.000000
+		xmax = 2.373000
+		intervals: size = 9
+			intervals [1]:
+				xmin = 0.000000
+				xmax = 0.013000
+				text = "sp"
+			intervals [2]:
+				xmin = 0.013000
+				xmax = 0.302000
+				text = "sp"
+			intervals [3]:
+				xmin = 0.302000
+				xmax = 0.792000
+				text = "CIRKUSEN"
+			intervals [4]:
+				xmin = 0.792000
+				xmax = 0.912000
+				text = "VAR"
+			intervals [5]:
+				xmin = 0.912000
+				xmax = 1.402000
+				text = "PÅ_VÄG"
+			intervals [6]:
+				xmin = 1.402000
+				xmax = 1.772000
+				text = "DERAS"
+			intervals [7]:
+				xmin = 1.772000
+				xmax = 2.343000
+				text = "PLAKAT"
+			intervals [8]:
+				xmin = 2.343000
+				xmax = 2.363000
+				text = "sp"
+			intervals [9]:
+				xmin = 2.363000
+				xmax = 2.373000
+				text = "sp"

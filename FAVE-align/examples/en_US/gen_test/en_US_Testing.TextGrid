@@ -1,0 +1,264 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.000000
+xmax = 8.173000
+tiers? <exists>
+size = 2
+item []:
+	item [1]:
+		class = "IntervalTier"
+		name = "Nate - phone"
+		xmin = 0.000000
+		xmax = 8.173000
+		intervals: size = 40
+			intervals [1]:
+				xmin = 0.000000
+				xmax = 0.583000
+				text = "sp"
+			intervals [2]:
+				xmin = 0.583000
+				xmax = 0.612000
+				text = "sp"
+			intervals [3]:
+				xmin = 0.612000
+				xmax = 0.703000
+				text = "T"
+			intervals [4]:
+				xmin = 0.703000
+				xmax = 0.793000
+				text = "EH1"
+			intervals [5]:
+				xmin = 0.793000
+				xmax = 0.963000
+				text = "S"
+			intervals [6]:
+				xmin = 0.963000
+				xmax = 1.013000
+				text = "T"
+			intervals [7]:
+				xmin = 1.013000
+				xmax = 1.092000
+				text = "AH0"
+			intervals [8]:
+				xmin = 1.092000
+				xmax = 1.342000
+				text = "N"
+			intervals [9]:
+				xmin = 1.342000
+				xmax = 1.502000
+				text = "sp"
+			intervals [10]:
+				xmin = 1.502000
+				xmax = 1.673000
+				text = "W"
+			intervals [11]:
+				xmin = 1.673000
+				xmax = 1.802000
+				text = "AH1"
+			intervals [12]:
+				xmin = 1.802000
+				xmax = 2.102000
+				text = "N"
+			intervals [13]:
+				xmin = 2.102000
+				xmax = 2.362000
+				text = "sp"
+			intervals [14]:
+				xmin = 2.362000
+				xmax = 2.482000
+				text = "T"
+			intervals [15]:
+				xmin = 2.482000
+				xmax = 2.903000
+				text = "UW1"
+			intervals [16]:
+				xmin = 2.903000
+				xmax = 3.073000
+				text = "sp"
+			intervals [17]:
+				xmin = 3.073000
+				xmax = 3.103000
+				text = "sp"
+			intervals [18]:
+				xmin = 3.103000
+				xmax = 3.303000
+				text = "sp"
+			intervals [19]:
+				xmin = 3.303000
+				xmax = 3.383000
+				text = "TH"
+			intervals [20]:
+				xmin = 3.383000
+				xmax = 3.512000
+				text = "R"
+			intervals [21]:
+				xmin = 3.512000
+				xmax = 3.862000
+				text = "IY1"
+			intervals [22]:
+				xmin = 3.862000
+				xmax = 4.443000
+				text = "sp"
+			intervals [23]:
+				xmin = 4.443000
+				xmax = 4.473000
+				text = "F"
+			intervals [24]:
+				xmin = 4.473000
+				xmax = 4.882000
+				text = "AO1"
+			intervals [25]:
+				xmin = 4.882000
+				xmax = 4.933000
+				text = "R"
+			intervals [26]:
+				xmin = 4.933000
+				xmax = 5.353000
+				text = "sp"
+			intervals [27]:
+				xmin = 5.353000
+				xmax = 5.473000
+				text = "F"
+			intervals [28]:
+				xmin = 5.473000
+				xmax = 5.873000
+				text = "AY1"
+			intervals [29]:
+				xmin = 5.873000
+				xmax = 5.933000
+				text = "V"
+			intervals [30]:
+				xmin = 5.933000
+				xmax = 6.073000
+				text = "sp"
+			intervals [31]:
+				xmin = 6.073000
+				xmax = 6.316000
+				text = "sp"
+			intervals [32]:
+				xmin = 6.316000
+				xmax = 6.506000
+				text = "sp"
+			intervals [33]:
+				xmin = 6.506000
+				xmax = 6.576000
+				text = "T"
+			intervals [34]:
+				xmin = 6.576000
+				xmax = 6.646000
+				text = "EH1"
+			intervals [35]:
+				xmin = 6.646000
+				xmax = 6.795000
+				text = "S"
+			intervals [36]:
+				xmin = 6.795000
+				xmax = 6.855000
+				text = "T"
+			intervals [37]:
+				xmin = 6.855000
+				xmax = 6.925000
+				text = "AH0"
+			intervals [38]:
+				xmin = 6.925000
+				xmax = 7.075000
+				text = "N"
+			intervals [39]:
+				xmin = 7.075000
+				xmax = 7.235000
+				text = "sp"
+			intervals [40]:
+				xmin = 7.235000
+				xmax = 8.173000
+				text = "sp"
+	item [2]:
+		class = "IntervalTier"
+		name = "Nate - word"
+		xmin = 0.000000
+		xmax = 8.173000
+		intervals: size = 21
+			intervals [1]:
+				xmin = 0.000000
+				xmax = 0.583000
+				text = "sp"
+			intervals [2]:
+				xmin = 0.583000
+				xmax = 0.612000
+				text = "sp"
+			intervals [3]:
+				xmin = 0.612000
+				xmax = 1.342000
+				text = "TESTING"
+			intervals [4]:
+				xmin = 1.342000
+				xmax = 1.502000
+				text = "sp"
+			intervals [5]:
+				xmin = 1.502000
+				xmax = 2.102000
+				text = "ONE"
+			intervals [6]:
+				xmin = 2.102000
+				xmax = 2.362000
+				text = "sp"
+			intervals [7]:
+				xmin = 2.362000
+				xmax = 2.903000
+				text = "TWO"
+			intervals [8]:
+				xmin = 2.903000
+				xmax = 3.073000
+				text = "sp"
+			intervals [9]:
+				xmin = 3.073000
+				xmax = 3.103000
+				text = "sp"
+			intervals [10]:
+				xmin = 3.103000
+				xmax = 3.303000
+				text = "sp"
+			intervals [11]:
+				xmin = 3.303000
+				xmax = 3.862000
+				text = "THREE"
+			intervals [12]:
+				xmin = 3.862000
+				xmax = 4.443000
+				text = "sp"
+			intervals [13]:
+				xmin = 4.443000
+				xmax = 4.933000
+				text = "FOUR"
+			intervals [14]:
+				xmin = 4.933000
+				xmax = 5.353000
+				text = "sp"
+			intervals [15]:
+				xmin = 5.353000
+				xmax = 5.933000
+				text = "FIVE"
+			intervals [16]:
+				xmin = 5.933000
+				xmax = 6.073000
+				text = "sp"
+			intervals [17]:
+				xmin = 6.073000
+				xmax = 6.316000
+				text = "sp"
+			intervals [18]:
+				xmin = 6.316000
+				xmax = 6.506000
+				text = "sp"
+			intervals [19]:
+				xmin = 6.506000
+				xmax = 7.075000
+				text = "TESTING"
+			intervals [20]:
+				xmin = 7.075000
+				xmax = 7.235000
+				text = "sp"
+			intervals [21]:
+				xmin = 7.235000
+				xmax = 8.173000
+				text = "sp"

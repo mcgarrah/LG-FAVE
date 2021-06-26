@@ -1,0 +1,28 @@
+Thu Feb  8 20:04:12 2018
+
+Alignment statistics for file en_US_Testing.wav:
+
+version info from Git: 1.2.3 - hardcoded
+Uncommitted changes when run:
+None
+Total number of words:			7
+Uncertain transcriptions:		0	(0.0%)
+Unclear passages:			0	(0.0%)
+
+Number of breath groups aligned:	3
+Duration of sound file:			8.173 seconds
+Total time for alignment:		2.29 seconds
+Total time since beginning of program:	3.73 seconds
+
+->	average alignment duration:	0.762 seconds per breath group
+->	alignment rate:			0.456 times real time
+
+
+Alignment statistics:
+
+Chunk	CPU time	real time	d(CPU)	d(time)
+start	0.259	Thu Feb  8 20:04:09 2018	
+prelim	1.681	Thu Feb  8 20:04:10 2018	1.422	1.444
+1	1.688	Thu Feb  8 20:04:11 2018	0.006	0.799
+2	1.692	Thu Feb  8 20:04:12 2018	0.004	0.758
+3	1.696	Thu Feb  8 20:04:12 2018	0.004	0.73

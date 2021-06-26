@@ -1,0 +1,28 @@
+Fri Feb 23 15:54:36 2018
+
+Alignment statistics for file da_DK_test.wav:
+
+version info from Git: 1.2.3 - hardcoded
+Uncommitted changes when run:
+None
+Total number of words:			55
+Uncertain transcriptions:		0	(0.0%)
+Unclear passages:			0	(0.0%)
+
+Number of breath groups aligned:	3
+Duration of sound file:			10.611 seconds
+Total time for alignment:		5.38 seconds
+Total time since beginning of program:	11.36 seconds
+
+->	average alignment duration:	1.795 seconds per breath group
+->	alignment rate:			1.070 times real time
+
+
+Alignment statistics:
+
+Chunk	CPU time	real time	d(CPU)	d(time)
+start	0.113	Fri Feb 23 15:54:25 2018	
+prelim	2.834	Fri Feb 23 15:54:31 2018	2.721	5.971
+1	2.841	Fri Feb 23 15:54:33 2018	0.006	1.89
+2	2.849	Fri Feb 23 15:54:35 2018	0.009	1.851
+3	2.854	Fri Feb 23 15:54:36 2018	0.004	1.643

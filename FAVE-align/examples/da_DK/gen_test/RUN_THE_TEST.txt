@@ -1,0 +1,38 @@
+----
+
+New Behavior from DanFA
+
+Checking dictionary entries for all words in the input transcription...
+Please enter the Arpabet transcription of word HAR-, or enter [s] to skip.
+
+
+s
+Please enter the Arpabet transcription of word F-, or enter [s] to skip.
+(Following word is +FOR.)
+
+
+F
+Please enter the Arpabet transcription of word P-, or enter [s] to skip.
+(Following word is +PROGRAMMET.)
+
+
+P
+
+----
+Old Behavior
+
+Please enter the Arpabet transcription of word HAR-, or enter [s] to skip.
+
+s
+
+Dictionary entry for truncated word F- is [['F']].
+Following word is +FOR.
+Is this correct?  [y/n]
+
+y
+
+Please enter the Arpabet transcription of word P-, or enter [s] to skip.
+(Following word is +PROGRAMMET.)
+
+P
+
