@@ -1,0 +1,8 @@
+*.py[cod]
+*\~
+.Rhistory
+.DS_Store
+*.sublime-project
+
+# Exclude IDE Project Files
+.idea/*
