@@ -63,14 +63,13 @@ Options:
 """
 
 ##########################################################################################
-## If using NordFA, please cite the original creators and the adaptors:                 ##
+## If using LG-FAVE, please cite the original creators and the adaptors:                ##
 ##                                                                                      ##
 ## Rosenfelder, I., Fruehwald, J., Evanini, K. & Yuan, J. (2011). FAVE                  ##
 ##      (Forced Alignment and Vowel Extraction) Program Suite [computer program].       ##
 ##                                                                                      ##
-## Young, N. & McGarrah, M. (2018). NordFA (Forced Alignment of Nordic Languages)       ##
-##      adaptation for FAVE [computer program].                                         ##
-##                                                                                      ##
+## Young, N. & McGarrah, M. (2021). Forced alignment for Nordic languages: Rapidly      ##
+##      constructing a high-quality prototype. Nordic Journal of Linguistics.           ##
 ##########################################################################################
 
 import os
