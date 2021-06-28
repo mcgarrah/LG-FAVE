@@ -19,10 +19,10 @@ If you want to keep up to date on FAVE development, or have questions about FAVE
 
 ## Attribution
 [![DOI](https://zenodo.org/badge/doi/10.5281/zenodo.22281.svg)](http://dx.doi.org/10.5281/zenodo.22281)
-As of v1.1.3 onwards, releases from this repository will have a DOI associated with them through Zenodo. The DOI for the current release is [10.5281/zenodo.22281](http://dx.doi.org/10.5281/zenodo.22281). We would recommend the citation:
+As of v1.1.3 onwards, releases from this repository will have a DOI associated with them through Zenodo. The DOI for the current release is [10.5281/zenodo.22281](http://dx.doi.org/10.5281/zenodo.22281). 
 
-Rosenfelder, Ingrid; Fruehwald, Josef; Evanini, Keelan; Seyfarth, Scott; Gorman, Kyle; Prichard, Hilary; Yuan, Jiahong; 2014. FAVE (Forced Alignment and Vowel Extraction) Program Suite v1.2.2 10.5281/zenodo.22281
+The following two works should be cited whenever LG-FAVE is used:
 
-Use of the interactive online interface should continue to cite:
+Rosenfelder, Ingrid; Fruehwald, Josef; Evanini, Keelan; Seyfarth, Scott; Gorman, Kyle; Prichard, Hilary; Yuan, Jiahong. 2014. FAVE (Forced Alignment and Vowel Extraction) Program Suite v1.2.2 10.5281/zenodo.22281
 
-Rosenfelder, Ingrid; Fruehwald, Josef; Evanini, Keelan and Jiahong Yuan. 2011. FAVE (Forced Alignment and Vowel Extraction) Program Suite. http://fave.ling.upenn.edu.
+Young, Nathan and McGarrah, Michael. 2021. Forced alignment for Nordic languages: Rapidly constructing a high-quality prototype. Nordic Journal of Linguistics.
