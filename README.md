@@ -1,8 +1,8 @@
 # FAVE toolkits and NordFA prototype
 
-This is a repository for the FAVE-Align and FAVE-extract toolkits. The first commit here represents the toolkit as it was available on the FAVE website as of October 21, 2013. The extractFormants code in the JoFrhwld/FAAV repository represents an earlier version of the code.
+This is a repository for the **FAVE-Align** and **FAVE-extract** toolkits. The first commit here represents the toolkit as it was available on the FAVE website as of October 21, 2013. The extractFormants code in the JoFrhwld/FAAV repository represents an earlier version of the code.
 
-The **NordFA prototype** is included in LG-FAVE. Currently, the prototype works for **Danish** and **Swedish**. Danish is not particularly accurate, but Swedish is. The process for adaptation – along with accuracy metrics for Swedish – is described in our 2021 article, which we have uploaded here. NB, this is *unsupported* software. 
+The **NordFA prototype** is also included in LG-FAVE. Currently, the prototype works for **Danish** and **Swedish**. Danish is not particularly accurate, but Swedish is. The process for adaptation – along with accuracy metrics for Swedish – is described in our 2021 article, which we have uploaded here. NB, this is *unsupported* software. 
 
 ## Attribution
 [![DOI](https://zenodo.org/badge/doi/10.5281/zenodo.22281.svg)](http://dx.doi.org/10.5281/zenodo.22281)
