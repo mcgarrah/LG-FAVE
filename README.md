@@ -1,6 +1,8 @@
-## NordFA prototype
+# FAVE toolkits and NordFA prototype
 
-These are included in LG-FAVE. Currently, the prototype works for Danish and Swedish. Danish is not particularly accurate, but Swedish is. The process for adaptation – along with accuracy metrics for Swedish – is described in our 2021 article, which we have uploaded here. NB, it is *unsupported* software. 
+This is a repository for the FAVE-Align and FAVE-extract toolkits. The first commit here represents the toolkit as it was available on the FAVE website as of October 21, 2013. The extractFormants code in the JoFrhwld/FAAV repository represents an earlier version of the code.
+
+The **NordFA prototype** is included in LG-FAVE. Currently, the prototype works for **Danish** and **Swedish**. Danish is not particularly accurate, but Swedish is. The process for adaptation – along with accuracy metrics for Swedish – is described in our 2021 article, which we have uploaded here. NB, this is *unsupported* software. 
 
 ## Attribution
 [![DOI](https://zenodo.org/badge/doi/10.5281/zenodo.22281.svg)](http://dx.doi.org/10.5281/zenodo.22281)
@@ -13,16 +15,6 @@ Rosenfelder, I., Fruehwald, J., Evanini, K. & Yuan, J. (2011). FAVE
 
 Young, N. & McGarrah, M. (2021). Forced alignment for Nordic languages: Rapidly      
     constructing a high-quality prototype. Nordic Journal of Linguistics.           
-
-# FAVE toolkits
-
-This is a repository for the FAVE-Align and FAVE-extract toolkits.
-The first commit here represents the toolkit as it was available on the FAVE website as of October 21, 2013.
-The extractFormants code in the JoFrhwld/FAAV repository represents an earlier version of the code.
-
-## FAVE website
-
-The interactive website for utilizing FAVE can be found at [fave.ling.upenn.edu](http://fave.ling.upenn.edu/)
 
 ## Support
 
