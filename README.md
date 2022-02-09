@@ -10,7 +10,7 @@ The interactive website for utilizing FAVE can be found at [fave.ling.upenn.edu]
 
 ## Support
 
-You can find user support for installing and using the FAVE toolkits at the [FAVE Users' Group](https://groups.google.com/forum/#!forum/fave-users).
+This is *unsupported* software. One can, however, usually find user support for installing and using the FAVE toolkits at the [FAVE Users' Group](https://groups.google.com/forum/#!forum/fave-users).
 
 ## Contributing to FAVE
 For the most part, we'll be utilizing the fork-and-pull paradigm (see [Using Pull Requests](https://help.github.com/articles/using-pull-requests)). Please send pull requests to the `dev` branch.
